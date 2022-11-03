@@ -1,1 +1,1 @@
-web: python3 -m ocrbot
+worker: python3 -m ocrbot
